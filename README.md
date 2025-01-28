@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PUSHPARAJ ABHIJEET SUPEKAR</h1>
-<h3 align="center">A passionate FullStack Java and Python developer from India</h3>
+<h3 align="center">A passionate FullStack Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhashyam0573&label=Profile%20views&color=0e75b6&style=flat" alt="radhashyam0573" /> </p>
 
