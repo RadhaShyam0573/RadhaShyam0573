@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhashyam0573&label=Profile%20views&color=0e75b6&style=flat" alt="radhashyam0573" /> </p>
 
-- 🌱 I’m currently learning **MASTER IN FULL STACK DEVELOPMENT WITH PYTHON **
+- 🌱 I’m currently learning **MASTER IN FULL STACK DEVELOPMENT WITH JAVA **
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/pushparaj-supekar](www.linkedin.com/in/pushparaj-supekar)
 
-- 💬 Ask me about **Python, Html,CSS**
+- 💬 Ask me about ** Html ,CSS, BOOTSTRAP**
 
 - 📫 How to reach me **supekar0573@gmail.com**
 
